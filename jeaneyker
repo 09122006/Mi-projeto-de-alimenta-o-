@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Comida deliciosa</title>
+  </head>
+  <body>
+    <header>
+      <h1>Comida deliciosa</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#menu">Menú</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="presentacion">
+        <h2>Bienvenidos a nuestra empresa de comida</h2>
+        <p>En Comida deliciosa nos dedicamos a preparar los mejores platillos con ingredientes frescos y de calidad. Nuestro objetivo es que disfrutes de una experiencia gastronómica única</p>
+      </section>
+      <section id="menu">
+        <h2>Nuestro menú</h2>
+        <ul>
+          <li>Plato 1</li>
+          <li>Plato 2</li>
+          <li>Plato 3</li>
+          <li>Plato 4</li>
+        </ul>
+      </section>
+      <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Estamos ubicados en la calle x, colonia y, ciudad z</p>
+        <p>Puedes contactarnos al teléfono 1234567890 o al correo electrónico info@comidadeliciosa.com</p>
+      </section>
+    </main>
+    <footer>
+      <p>© Comida deliciosa 2021 - Todos los derechos reservados</p>
+    </footer>
+  </body>
+</html>
